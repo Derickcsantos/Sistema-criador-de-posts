@@ -1,0 +1,9 @@
+/meu-projeto
+│── app.js
+│── package.json
+│── views/
+│   ├── index.ejs
+│   ├── result.ejs
+│── public/
+│   └── css/
+│       └── style.css
